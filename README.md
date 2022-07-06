@@ -4,3 +4,4 @@ This is a global study conducted by the Association of Biomedical Resource Facil
 
 Detailed SNR and PSF imaging protocol for several different laser scanning confocal microscope vendors are posted in this repository.
 
+Key Words: rigor, reproducibility, resolution, quality control, point spread function (PSF), Signal to Noise Ratio (SNR), confocal microscopy, fluorescence microscopy, standard, 3D imaging, quantitative imaging
